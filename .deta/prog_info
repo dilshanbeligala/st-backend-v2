@@ -1,0 +1,1 @@
+{"id":"1bf9ae9f-589d-4601-9825-6b5d9de69768","space":14603,"runtime":"nodejs14.x","name":"st-backend","path":"8js2d8","project":"c05ucszo","account":"144798365827","region":"ap-southeast-1","deps":["express@^4.18.2","mongoose@^6.8.0","cors@^2.8.5","bcrypt@^5.1.0","cookie-parser@^1.4.6","jsonwebtoken@^8.5.1"],"envs":["DATABASE_URL"],"public":true,"log_level":"debug","cron":""}
